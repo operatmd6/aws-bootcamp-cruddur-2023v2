@@ -33,7 +33,7 @@ Use EventBridge to hookup Health Dashboard to SNS and send notification when the
 
 
 Review all the questions of each pillars in the Well Architected Tool (No specialized lens)
-Done
+![image](https://user-images.githubusercontent.com/124447960/218283264-c38c5a91-d74d-4a26-b0a3-768085178024.png)
 
 Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
 ![Architectural diagram](https://user-images.githubusercontent.com/124447960/218282281-bfffcbe9-6b81-4414-a073-67298238c0c4.png)
